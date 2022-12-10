@@ -2,6 +2,7 @@
 
 ```bash
 python3 -m venv .venv
+./2022/.venv/bin/python -m pip install numpy
 ```
 
 ```bash
